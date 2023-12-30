@@ -1,0 +1,10 @@
+form
+{
+  width: max-content;
+  margin: auto;
+  /* max-width: max-content; */
+}
+button
+{
+  background-color: black;
+}
